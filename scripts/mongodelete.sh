@@ -1,1 +1,1 @@
-mongosh portfolio_db --eval "db.dropDatabase();"
+mongosh my_portfolio_db --eval "db.dropDatabase();"

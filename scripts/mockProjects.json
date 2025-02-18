@@ -1,115 +1,108 @@
 [
     {
-        "title": "React",
-        "description": "React es el Framework web basado en componentes de Facebook. Cuenta con una curva de aprendizaje corta y mucha flexibilidad",
-        "version": "17.0.1",
-        "link": "https://reactjs.org/docs/hello-world.html",
-        "tag": "JavaScript, Typescript, React",
+        "title": "IdearTICs",
+        "description": "Landing Page para la empresa IdearTICs ",
+        "version": "1.0",
+        "link": "https://ideartics.com",
+        "tag": "JavaScript, Html, Css",
         "timestamp": 765817712000
     },
     {
-        "title": "Create React App",
-        "description": "Toolchain para la creación de proyectos basados en React, contiene lo báisco para crear proyectos basados en single-page apps",
-        "version": "4.0.3",
-        "link": "https://create-react-app.dev",
-        "tag": "Toolchain, React, Bootstraping",
+        "title": "VisitaMiCiudad",
+        "description": "Visita Mi Ciudad es una aplicación web diseñada para ayudar a los turistas a descubrir los mejores lugares y rutas en la ciudad. Permite visualizar sitios de interés, crear rutas personalizadas y mejorar la economía local al promover negocios y eventos. Ademas las sugerencias de rutas se realizan por medio de IA con OpenAI.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez/visitamiciudad",
+        "tag": "Rect, Node, Express, PostgreSQL, JavaScript, Materialui",
         "timestamp": 765817712001
     },
     {
-        "title": "Styled components",
-        "description": "Librería que permite usar template literals y css para crear estilos en componente con JavaScript",
-        "version": "5.2.1",
-        "link": "https://styled-components.com/docs",
-        "tag": "CSS, JavaScript, Babel",
+        "title": "PastoShop",
+        "description": "Tienda online con multiplataformas de pago como ePayco, payuLatam y mercado Pago para productos de distintos proveedores. ",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
+        "timestamp": 765817712001
+    },
+    {
+        "title": "Sinet",
+        "description": "Sistema para la administración para el préstamo y asignación de equipos para la gobernación de Nariño.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "React",
         "timestamp": 765817712002
     },
     {
-        "title": "React i18next",
-        "description": "Internacionalización de nuestro proyecto en React.",
-        "version": "19.9.2",
-        "link": "https://react.i18next.com",
-        "tag": "JavaScript, i18n, React",
+        "title": "Sinet-Form",
+        "description": "Sistema de soporte y administración de tickets atención al usuari, que permite la creación de encuestas personalizadas y dinamicas.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
         "timestamp": 765817712003
     },
     {
-        "title": "React Lottie",
-        "description": "Animaciones en alta calidad que cuentan con distintos tipos de reproducción.",
-        "version": "1.2.3",
-        "link": "https://airbnb.design/lottie/",
-        "tag": "Animation, React, Aribnb",
-        "timestamp": 765817712004
-    },
-    {
-        "title": "React Router",
-        "description": "Navegación entre páginas dentro de nuestra web app.",
-        "version": "5.2.0",
-        "link": "https://reactrouter.com/web/guides/quick-start",
-        "tag": "Navigation, routing",
-        "timestamp": 765817712005
-    },
-    {
-        "title": "Swagger",
-        "description": "Herramienta para creación de especificaciones OpenAPI",
-        "version": "3.0,2",
-        "link": "https://app.swaggerhub.com/apis/dianaflorez/portfolio/1.0.0",
-        "tag": "API, OpenAPI",
-        "timestamp": 765817712006
-    },
-    {
-        "title": "Figma",
-        "description": "Herramienta de diseño vectorial y prototipado",
-        "version": "-",
-        "link": "https://www.figma.com/proto/3e43h8TrzwpjfKwXvFxZoP/Taller?page-id=144%3A51&node-id=308%3A1187&viewport=254%2C48%2C0.12&scaling=min-zoom&starting-point-node-id=147%3A3",
-        "tag": "Vector, UX, UI",
-        "timestamp": 765817712007
-    },
-    {
-        "title": "JWT",
-        "description": "Estandar de autenticacion muy popular en APIs",
-        "version": "6.1.0",
-        "link": "https://jwt.io/",
-        "tag": "Auth, Secure, Networking",
-        "timestamp": 765817712008
-    },
-    {
-        "title": "Express Router",
-        "description": "Web Framework para Node.js que controla la navegación de la webapp",
-        "version": "4.17.1",
-        "link": "http://expressjs.com",
-        "tag": "Server, Backend, Networking",
+        "title": "WIWO Walk in the World (Android)",
+        "description": "parte móvil >Se desarrollo en Android Studio. parte web> La información es administrable desde un servidor en Digital Ocean al cual le realice las configuraciones necesarias para el funcionamiento (Este servidor cuenta con la pila de APACHE, PHP, MYSQL,) Aunque también tiene instalado postgres y git, la base de datos en la que se trabaje este proyecto es postgres y con el Framework (Yii 2)",
+        "version": "1.0",
+        "link": "https://www.facebook.com/WIWO-Walk-in-the-World-368133963521258/?ref=search&__tn__=%2Cd%2CP-R&eid=ARAsiNWieB6rJ-2qptSjNZmr2Vk7nU96CIDivUr8GbgqfaWjHnOWgmNY46urJVPj7zdMcnHRdvZqVQRb",
+        "tag": "Android Studio, PHP, yii2, PostgreSQL, Javascript, Materialize",
         "timestamp": 765817712009
     },
     {
-        "title": "DotEnv",
-        "description": "Herramienta gestión de variables entorno y su carga dinámica",
-        "version": "10.0.0",
-        "link": "https://github.com/motdotla/dotenv#readme",
-        "tag": "Javascript, Env Variable",
+        "title": "Multiser",
+        "description": "Sistema de administración para solicitud de cobros por libranza.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
+        "timestamp": 765817712004
+    },
+    {
+        "title": "Arkenity",
+        "description": "Plataforma para la creación de cursos online para trading con administración de usuario, clases offline y online.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
+        "timestamp": 765817712005
+    },
+    {
+        "title": "IncentAPI",
+        "description": "Sistema para la generación de desprendibles de pago con código qr para redimir en supermercados afiliados.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "PHP, yii2, MySQL, JavaScript, Boostrap",
+        "timestamp": 765817712006
+    },
+    {
+        "title": "Euroscope",
+        "description": "Este software permite tener un control y facturación de las ventas de paquetes turísticos de hoteles y agencias de turismo de Paris Francia.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "ASP.NET, PostgresSQL",
+        "timestamp": 765817712007
+    },
+    {
+        "title": "Truckdispatch",
+        "description": " Sistema administra y controla los envíos y servicios de empresas transportadoras en Estados Unidos.",
+        "version": "1.0",
+        "link": "https://github.com/dianaflorez",
+        "tag": "PHP, yii2, MySQL, JavaScript",
+        "timestamp": 765817712008
+    },
+    
+    {
+        "title": "Civico",
+        "description": "Sistema para el registro de negocios de la ciudad de Bogotá, participé en el desarrollo front-end mobile",
+        "version": "1.0",
+        "link": "https://www.instagram.com/civicobogota/?hl=es",
+        "tag": "Titanium Acelerator",
         "timestamp": 765817712010
     },
     {
-        "title": "Mongoose",
-        "description": "Librería de express para modelado de objetos mongodb",
-        "version": "6.0.13",
-        "link": "https://mongoosejs.com/",
-        "tag": "Javascript, Env Variable",
+        "title": "CardMemory",
+        "description": "Juego para memorizar las principales palabra que se utilizan con mayor frecuencia en ingles",
+        "version": "1.0",
+        "link": "https://memorycard-pdwg.onrender.com",
+        "tag": "React",
         "timestamp": 765817712011
-    },
-    {
-        "title": "MongoDB",
-        "description": "Base de Datos No Relacional orientado a documentos",
-        "version": "10.0.0",
-        "link": "https://github.com/motdotla/dotenv#readme",
-        "tag": "Javascript, Env Variable",
-        "timestamp": 765817712012
-    },
-    {
-        "title": "Joi",
-        "description": "Validador de datos y esquemas para JavaScript",
-        "version": "17.5.0",
-        "link": "https://github.com/sideway/joi",
-        "tag": "Javascript, Schema, Validator",
-        "timestamp": 765817712018
     }
     
 ]

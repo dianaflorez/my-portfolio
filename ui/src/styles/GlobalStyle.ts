@@ -8,4 +8,11 @@ export const GlobalStyle = createGlobalStyle`
 	        background: ${themes.dark.backgroundColor};
         }   
     }
+    body:after {
+        content: "";
+        position: fixed;
+        inset: 0;
+        z-index: -1000;
+        background-image: linear-gradient(0deg, #0d141f 30%, #381842);
+    }
 `;
