@@ -5,7 +5,7 @@ import WaveLanding from '../background/WaveLanding';
 import { themes } from '../../styles/ColorStyles';
 import { H1, MediumText } from '../../styles/TextStyles';
 import Lottie from 'lottie-react';
-import animationData from './landingmia.json';
+import animationData from './Landingmia.json';
 import Typewriter from "typewriter-effect";
 
 
