@@ -2,7 +2,7 @@
 
 Este proyecto esta realizaco con React, Express Swagger, Mongo DB
 
-Además, como se enseñará en el propio proyecto, podemos ver el prototipo final en [este link](https://personal-profail.netlify.app/)
+Además, como se enseñará en el propio proyecto, podemos ver el prototipo final en [este link](https://diana-florez-dev.netlify.app/)
 
 ## Backend
 
