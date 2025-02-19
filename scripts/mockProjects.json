@@ -9,7 +9,7 @@
     },
     {
         "title": "VisitaMiCiudad",
-        "description": "Visita Mi Ciudad es una aplicación web diseñada para ayudar a los turistas a descubrir los mejores lugares y rutas en la ciudad. Permite visualizar sitios de interés, crear rutas personalizadas y mejorar la economía local al promover negocios y eventos. Ademas las sugerencias de rutas se realizan por medio de IA con OpenAI.",
+        "description": "Visita Mi Ciudad es una aplicación web diseñada para ayudar a los turistas a descubrir los mejores lugares y rutas en la ciudad. Permite visualizar sitios de interés, crear rutas personalizadas que se genera por medio de OpenIA y mejorar la economía local al promover negocios y eventos.",
         "version": "1.0",
         "link": "https://github.com/dianaflorez/visitamiciudad",
         "tag": "Rect, Node, Express, PostgreSQL, JavaScript, Materialui",
@@ -21,7 +21,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
-        "timestamp": 765817712001
+        "timestamp": 765817712002
     },
     {
         "title": "Sinet",
@@ -29,7 +29,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "React",
-        "timestamp": 765817712002
+        "timestamp": 765817712003
     },
     {
         "title": "Sinet-Form",
@@ -37,7 +37,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
-        "timestamp": 765817712003
+        "timestamp": 765817712004
     },
     {
         "title": "WIWO Walk in the World (Android)",
@@ -45,7 +45,7 @@
         "version": "1.0",
         "link": "https://www.facebook.com/WIWO-Walk-in-the-World-368133963521258/?ref=search&__tn__=%2Cd%2CP-R&eid=ARAsiNWieB6rJ-2qptSjNZmr2Vk7nU96CIDivUr8GbgqfaWjHnOWgmNY46urJVPj7zdMcnHRdvZqVQRb",
         "tag": "Android Studio, PHP, yii2, PostgreSQL, Javascript, Materialize",
-        "timestamp": 765817712009
+        "timestamp": 765817712005
     },
     {
         "title": "Multiser",
@@ -53,7 +53,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
-        "timestamp": 765817712004
+        "timestamp": 765817712006
     },
     {
         "title": "Arkenity",
@@ -61,7 +61,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap",
-        "timestamp": 765817712005
+        "timestamp": 765817712007
     },
     {
         "title": "IncentAPI",
@@ -69,7 +69,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "PHP, yii2, MySQL, JavaScript, Boostrap",
-        "timestamp": 765817712006
+        "timestamp": 765817712008
     },
     {
         "title": "Euroscope",
@@ -77,7 +77,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "ASP.NET, PostgresSQL",
-        "timestamp": 765817712007
+        "timestamp": 765817712009
     },
     {
         "title": "Truckdispatch",
@@ -85,7 +85,7 @@
         "version": "1.0",
         "link": "https://github.com/dianaflorez",
         "tag": "PHP, yii2, MySQL, JavaScript",
-        "timestamp": 765817712008
+        "timestamp": 765817712010
     },
     
     {
@@ -94,7 +94,7 @@
         "version": "1.0",
         "link": "https://www.instagram.com/civicobogota/?hl=es",
         "tag": "Titanium Acelerator",
-        "timestamp": 765817712010
+        "timestamp": 765817712013
     },
     {
         "title": "CardMemory",
@@ -102,7 +102,7 @@
         "version": "1.0",
         "link": "https://memorycard-pdwg.onrender.com",
         "tag": "React",
-        "timestamp": 765817712011
+        "timestamp": 765817712012
     }
     
 ]
