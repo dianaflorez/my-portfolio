@@ -110,7 +110,9 @@ const LandingPage = () => {
         </LottieWrapper>
 
       </ContentWrapper>
+      
       <AboutMe />
+
       <Footer />
 
     </Wrapper>

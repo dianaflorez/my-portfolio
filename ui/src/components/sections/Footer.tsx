@@ -36,7 +36,7 @@ export default Footer;
 // 💅 styled-components
 const Wrapper = styled.footer`
   background: ${themes.dark.backgroundColor};
-  padding: 40px 20px;
+  padding: 50px 20px;
   text-align: center;
   color: rgba(255, 255, 255, 0.8);
   border-top: 1px solid rgba(255, 255, 255, 0.1);
