@@ -80,7 +80,6 @@ const LandingPage = () => {
             ))}
           </SocialWrapper>
 
-          <AboutMe />
 
         </TextWrapper>
 
@@ -89,7 +88,8 @@ const LandingPage = () => {
         </LottieWrapper>
 
       </ContentWrapper>
-      
+      <AboutMe />
+
     </Wrapper>
   );
 };
