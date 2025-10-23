@@ -38,7 +38,7 @@ const LandingPage = () => {
             Developer
           </Title>
           <Description>
-            I am dedicated to turning ideas into reality web and mobile applications. 
+            I am dedicated to turning ideas into reality web and mobile applications... 
           </Description>
           {/* <SocialWrapper count={socialLinks.length}>
             {socialLinks.map((item, index) => (
