@@ -123,7 +123,8 @@ const LandingPage = () => {
 };
 const Wrapper = styled.div`
   overflow: hidden;
-  height: 1200px;
+  min-height: 100vh; /* altura mínima de la ventana visible */
+ 
   @media (min-width: 2500px) {
     padding-bottom: 100px;
   }
