@@ -9,6 +9,7 @@ import animationData from './Landingmia.json';
 import Typewriter from "typewriter-effect";
 import AboutMe from "../sections/AboutMe";
 import Footer from "../sections/Footer";
+import Skills from "../sections/Skills";
 
 
 const LandingPage = () => {
@@ -110,8 +111,10 @@ const LandingPage = () => {
         </LottieWrapper>
 
       </ContentWrapper>
-      
+
       <AboutMe />
+
+      <Skills />
 
       <Footer />
 
