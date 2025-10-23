@@ -38,6 +38,7 @@ export const themes = {
     primary: `#32173d`,
     secondary: '#2EAE7B',
     backgroundColor: `#2B2830`,
+    backgroundColorPurple:`2A1737`,
     backgroundForm: `#282828`,
     card: {
       backgroundColor: `rgba(0, 0, 0, 0.4)`,

@@ -33,7 +33,7 @@ const Wrapper = styled.section`
   justify-content: center;
   align-items: center;
   padding: 100px 30px;
-  background: ${themes.dark.backgroundColor};
+  background: ${themes.dark.backgroundColorPurple};
 `;
 
 const Card = styled.div`
