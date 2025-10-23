@@ -8,6 +8,7 @@ import Lottie from 'lottie-react';
 import animationData from './Landingmia.json';
 import Typewriter from "typewriter-effect";
 import AboutMe from "../sections/AboutMe";
+import Footer from "../sections/Footer";
 
 
 const LandingPage = () => {
@@ -89,6 +90,7 @@ const LandingPage = () => {
 
       </ContentWrapper>
       <AboutMe />
+      <Footer />
 
     </Wrapper>
   );
