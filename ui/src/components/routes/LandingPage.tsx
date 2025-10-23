@@ -25,6 +25,27 @@ const LandingPage = () => {
       ),
     },
     {
+      name: 'GitLab',
+      link: 'https://gitlab.com/dianaflorez',
+      svg: (
+        <svg
+          role="img"
+          viewBox="0 0 24 24"
+          width="20"
+          height="20"
+          xmlns="http://www.w3.org/2000/svg"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path
+            fill="currentColor"
+            d="M23.76 9.66l-1.24-3.8c-.1-.3-.4-.5-.7-.5-.3 0-.6.2-.7.5l-1.5 4.4H4.45l-1.5-4.4c-.1-.3-.4-.5-.7-.5s-.6.2-.7.5L.3 9.66c-.1.3 0 .6.2.8l11 13.4c.2.2.5.2.6 0l11-13.4c.2-.2.3-.5.2-.8"
+          />
+        </svg>
+      ),
+    },
+    
+    {
       name: 'LinkedIn',
       link: 'https://www.linkedin.com/in/diana-cristy-florez-bravo',
       svg: (

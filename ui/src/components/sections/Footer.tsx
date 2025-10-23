@@ -14,14 +14,18 @@ const Footer: React.FC = () => {
           © {currentYear} Diana Florez — All rights reserved.
         </Text>
         <Links>
-          <Link href="https://github.com/dianaflorez" target="_blank" rel="noopener noreferrer">
-            GitHub
-          </Link>
-          <Link href="https://www.linkedin.com/in/dianaflorez" target="_blank" rel="noopener noreferrer">
-            LinkedIn
-          </Link>
-          <Link href="mailto:dianaflorez@gmail.com">Contact</Link>
+            <Link href="https://github.com/dianaflorez" target="_blank" rel="noopener noreferrer">
+                GitHub
+            </Link>
+            <Link href="https://gitlab.com/dianaflorez" target="_blank" rel="noopener noreferrer">
+                GitLab
+            </Link>
+            <Link href="https://www.linkedin.com/in/diana-cristy-florez-bravo" target="_blank" rel="noopener noreferrer">
+                LinkedIn
+            </Link>
+            <Link href="mailto:dianaflorez@gmail.com">Contact</Link>
         </Links>
+
       </Content>
     </Wrapper>
   );
