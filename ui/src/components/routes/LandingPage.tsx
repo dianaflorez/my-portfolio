@@ -112,9 +112,10 @@ const LandingPage = () => {
 
       </ContentWrapper>
 
-      <AboutMe />
-
-      <Skills />
+      <main>
+        <AboutMe />
+        <Skills />
+      </main>
 
       <Footer />
 
@@ -145,6 +146,14 @@ const ContentWrapper = styled.div`
     border: 2px solid pink;
   }
 `;
+
+const Main = styled.main`
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+  margin-top: 100px;
+`;
+
 
 const TextWrapper = styled.div`
   max-width: 360px;
