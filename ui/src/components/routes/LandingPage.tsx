@@ -7,6 +7,7 @@ import { H1, MediumText } from '../../styles/TextStyles';
 import Lottie from 'lottie-react';
 import animationData from './Landingmia.json';
 import Typewriter from "typewriter-effect";
+import AboutMe from "../sections/AboutMe";
 
 
 const LandingPage = () => {
@@ -59,7 +60,7 @@ const LandingPage = () => {
             Developer
           </Title>
           <Description>
-            I am dedicated to turning ideas into reality web and mobile applications... 
+            I am dedicated to turning ideas into reality web and mobile applications.
           </Description>
 
           {/* Social links */}
@@ -78,6 +79,9 @@ const LandingPage = () => {
               </SocialLink>
             ))}
           </SocialWrapper>
+
+          <AboutMe />
+
         </TextWrapper>
 
         <LottieWrapper>
