@@ -18,7 +18,7 @@ const projects: Project[] = [
     description:
       "Sistema para la generación de FUECS y administración de asignación y alquiler de vehículos por medio de contratos fijos y ocasionales. Con envío de alertas por WhatsApp Business API.",
     version: "1.0",
-    link: "https://gitlab.com/dianaflorez",
+    link: "https://logistechsas.com/",
     tag: "PHP, Yii2, PostgreSQL, JavaScript, Bootstrap, WhatsApp Business API",
     timestamp: 765817712002,
   },
