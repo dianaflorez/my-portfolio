@@ -19,6 +19,7 @@ import {
   SiLaravel,
   SiYii,
 } from "react-icons/si";
+import { SiNextdotjs, SiAndroidstudio, SiReact } from "react-icons/si";
 
 // 💡 Lista de skills con React.createElement para evitar error TS2786
 // 💡 Lista de skills (con type assertion para evitar error TS2769)
@@ -36,6 +37,10 @@ const skills = [
   { name: "CSS3", icon: React.createElement(FaCss3Alt as React.ElementType) },
   { name: "Docker", icon: React.createElement(FaDocker as React.ElementType) },
   { name: "Git", icon: React.createElement(FaGitAlt as React.ElementType) },
+  { name: "React Native", icon: React.createElement(SiReact as React.ElementType) },
+  { name: "Next.js", icon: React.createElement(SiNextdotjs as React.ElementType) },
+  { name: "Android Studio", icon: React.createElement(SiAndroidstudio as React.ElementType) },
+
 ];
 
 
