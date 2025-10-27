@@ -8,6 +8,14 @@
         "timestamp": 765817712000
     },
     {
+        "title": "Acar",
+        "description": "Sistema para la generación de FUECS y administración de asignación y alquiler de vehículos por medio de contratos fijos y ocacionales. Con envio de alertas por WhatsApp Business API.",
+        "version": "1.0",
+        "link": "https://gitlab.com/dianaflorez",
+        "tag": "PHP, yii2, PostgreSQL, JavaScript, Boostrap, Whatssap Business API",
+        "timestamp": 765817712002
+    },
+    {
         "title": "VisitaMiCiudad",
         "description": "Visita Mi Ciudad es una aplicación web diseñada para ayudar a los turistas a descubrir los mejores lugares y rutas en la ciudad. Permite visualizar sitios de interés, crear rutas personalizadas que se genera por medio de OpenIA y mejorar la economía local al promover negocios y eventos.",
         "version": "1.0",
