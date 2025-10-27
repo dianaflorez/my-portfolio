@@ -14,6 +14,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/login" element={<Login />} />
+          <Route path="/projects" element={<LandingPage scrollTo="projects" />} />
           <Route path="/dashboard" element={<Dashboard />} />
           <Route
             path="admin"

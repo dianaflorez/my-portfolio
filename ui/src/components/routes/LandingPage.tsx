@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useEffect, useRef } from "react";
+
 import { useTranslation } from 'react-i18next';
 import styled from 'styled-components';
 import WaveLanding from '../background/WaveLanding';
@@ -12,9 +13,21 @@ import Footer from "../sections/Footer";
 import Skills from "../sections/Skills";
 import Projects from "../sections/Projects";
 
+interface LandingPageProps {
+  scrollTo?: string;
+}
 
-const LandingPage = () => {
+const LandingPage: React.FC<LandingPageProps> = ({ scrollTo }) => {
+  const projectsRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    if (scrollTo === "projects" && projectsRef.current) {
+      projectsRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [scrollTo]);
+
   const { t } = useTranslation();
+  
 
   const socialLinks = [
     {
@@ -116,7 +129,9 @@ const LandingPage = () => {
       <main>
         <AboutMe />
         <Skills />
-        <Projects />
+        <div ref={projectsRef}>
+          <Projects />
+        </div>
       </main>
 
       <Footer />

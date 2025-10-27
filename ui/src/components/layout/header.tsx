@@ -11,6 +11,10 @@ export const home = {
 
 export const menuData = [
   {
+    title: 'nav.projects',
+    link: '/projects'
+  },
+  {
     title: 'nav.dashboard',
     link: '/dashboard'
   },

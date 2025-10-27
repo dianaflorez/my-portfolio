@@ -40,7 +40,8 @@
     },
     "nav": {
         "home": "Inicio",
-        "dashboard": "Projectos",
+        "projects": "Projects",
+        "dashboard": "Backoffice",
         "admin": "Admin"
     },
     "aboutMeCard": {
