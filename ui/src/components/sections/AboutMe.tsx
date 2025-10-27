@@ -16,7 +16,7 @@ const AboutMe: React.FC = () => {
           <br />
           I’m constantly learning new technologies and improving both
           professionally and personally. My approach is focused on{" "}
-          <strong>commitment, creativity, and teamwork</strong> — always
+          <strong>commitment, creativity, and teamwork.</strong> Always
           finishing what I start and contributing with enthusiasm to every
           project I’m part of.
         </Text>
