@@ -23,7 +23,7 @@ const Footer: React.FC = () => {
             <Link href="https://www.linkedin.com/in/diana-cristy-florez-bravo" target="_blank" rel="noopener noreferrer">
                 LinkedIn
             </Link>
-            <Link href="mailto:dianaflorez@gmail.com">Contact</Link>
+            <Link href="mailto:dianaflorezbravo@gmail.com">Contact</Link>
         </Links>
 
       </Content>

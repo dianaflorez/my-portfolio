@@ -72,7 +72,7 @@ const projects: Project[] = [
     description:
       "Sistema de administración para solicitud y gestión de cobros por libranza.",
     version: "1.0",
-    link: "https://github.com/dianaflorez",
+    link: "https://gitlab.com/dianaflorez",
     tag: "PHP, Yii2, PostgreSQL, JavaScript, Bootstrap",
     timestamp: 765817712006,
   },
@@ -81,7 +81,7 @@ const projects: Project[] = [
     description:
       "Plataforma para la creación de cursos online de trading, con administración de usuarios y clases en línea y offline.",
     version: "1.0",
-    link: "https://github.com/dianaflorez",
+    link: "https://gitlab.com/dianaflorez",
     tag: "PHP, Yii2, PostgreSQL, JavaScript, Bootstrap",
     timestamp: 765817712007,
   },
@@ -90,7 +90,7 @@ const projects: Project[] = [
     description:
       "Sistema para la generación de desprendibles de pago con código QR para redimir en supermercados afiliados.",
     version: "1.0",
-    link: "https://github.com/dianaflorez",
+    link: "https://gitlab.com/dianaflorez",
     tag: "PHP, Yii2, MySQL, JavaScript, Bootstrap",
     timestamp: 765817712008,
   },
@@ -99,7 +99,7 @@ const projects: Project[] = [
 const Projects: React.FC = () => {
   return (
     <Wrapper>
-      <Title>Some Projects</Title>
+      <Title>Some Projects...</Title>
       <Description>
         Some of the projects I've worked on, combining creativity, technology, and problem solving.
       </Description>
