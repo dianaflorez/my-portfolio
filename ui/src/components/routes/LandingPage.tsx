@@ -10,6 +10,7 @@ import Typewriter from "typewriter-effect";
 import AboutMe from "../sections/AboutMe";
 import Footer from "../sections/Footer";
 import Skills from "../sections/Skills";
+import Projects from "../sections/Projects";
 
 
 const LandingPage = () => {
@@ -115,6 +116,7 @@ const LandingPage = () => {
       <main>
         <AboutMe />
         <Skills />
+        <Projects />
       </main>
 
       <Footer />
