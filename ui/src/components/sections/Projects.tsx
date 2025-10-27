@@ -99,7 +99,7 @@ const projects: Project[] = [
 const Projects: React.FC = () => {
   return (
     <Wrapper>
-      <Title>Projects</Title>
+      <Title>Some Projects</Title>
       <Description>
         Some of the projects I've worked on, combining creativity, technology, and problem solving.
       </Description>
@@ -130,7 +130,7 @@ export default Projects;
 
 // 💅 Estilos
 const Wrapper = styled.section`
-  background: ${themes.dark.backgroundColor};
+  background: ${themes.dark.backgroundColorPurple};
   padding: 120px 30px;
   text-align: center;
 `;
