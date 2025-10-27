@@ -2,8 +2,42 @@ import React from "react";
 import styled from "styled-components";
 import { themes } from "../../styles/ColorStyles";
 import { H1, MediumText } from "../../styles/TextStyles";
-import { FaReact, FaPhp, FaNodeJs, FaHtml5, FaCss3Alt, FaDocker, FaGitAlt } from "react-icons/fa";
-import { SiTypescript, SiJavascript, SiMysql, SiPostgresql, SiLaravel, SiYii } from "react-icons/si";
+import {
+  FaReact,
+  FaPhp,
+  FaNodeJs,
+  FaHtml5,
+  FaCss3Alt,
+  FaDocker,
+  FaGitAlt,
+} from "react-icons/fa";
+import {
+  SiTypescript,
+  SiJavascript,
+  SiMysql,
+  SiPostgresql,
+  SiLaravel,
+  SiYii,
+} from "react-icons/si";
+
+// 💡 Lista de skills con React.createElement para evitar error TS2786
+// 💡 Lista de skills (con type assertion para evitar error TS2769)
+const skills = [
+  { name: "JavaScript", icon: React.createElement(SiJavascript as React.ElementType) },
+  { name: "TypeScript", icon: React.createElement(SiTypescript as React.ElementType) },
+  { name: "React", icon: React.createElement(FaReact as React.ElementType) },
+  { name: "PHP", icon: React.createElement(FaPhp as React.ElementType) },
+  { name: "Yii2", icon: React.createElement(SiYii as React.ElementType) },
+  { name: "Laravel", icon: React.createElement(SiLaravel as React.ElementType) },
+  { name: "Node.js", icon: React.createElement(FaNodeJs as React.ElementType) },
+  { name: "MySQL", icon: React.createElement(SiMysql as React.ElementType) },
+  { name: "PostgreSQL", icon: React.createElement(SiPostgresql as React.ElementType) },
+  { name: "HTML5", icon: React.createElement(FaHtml5 as React.ElementType) },
+  { name: "CSS3", icon: React.createElement(FaCss3Alt as React.ElementType) },
+  { name: "Docker", icon: React.createElement(FaDocker as React.ElementType) },
+  { name: "Git", icon: React.createElement(FaGitAlt as React.ElementType) },
+];
+
 
 const Skills: React.FC = () => {
   return (
@@ -26,23 +60,6 @@ const Skills: React.FC = () => {
 };
 
 export default Skills;
-
-// 💡 Lista de skills
-const skills = [
-  { name: "JavaScript", icon: <SiJavascript /> },
-  { name: "TypeScript", icon: <SiTypescript /> },
-  { name: "React", icon: <FaReact /> },
-  { name: "PHP", icon: <FaPhp /> },
-  { name: "Yii2", icon: <SiYii /> },
-  { name: "Laravel", icon: <SiLaravel /> },
-  { name: "Node.js", icon: <FaNodeJs /> },
-  { name: "MySQL", icon: <SiMysql /> },
-  { name: "PostgreSQL", icon: <SiPostgresql /> },
-  { name: "HTML5", icon: <FaHtml5 /> },
-  { name: "CSS3", icon: <FaCss3Alt /> },
-  { name: "Docker", icon: <FaDocker /> },
-  { name: "Git", icon: <FaGitAlt /> },
-];
 
 // 💅 Estilos
 const Wrapper = styled.section`
